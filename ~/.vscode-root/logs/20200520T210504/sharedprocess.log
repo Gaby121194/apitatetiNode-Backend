@@ -1,0 +1,3 @@
+[2020-05-20 21:05:08.941] [sharedprocess] [info] main {"machineId":"aadbdf67a40bb7c6adfc87793ebc1be644d950bd908e16276cd34f899980754a","windowId":2}
+[2020-05-20 21:05:09.118] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/gaby/Desktop/pa-backend/apiTateti/~/.vscode-root/User/snippets'
+[2020-05-20 21:05:49.031] [sharedprocess] [info] Starting to clean up unused language packs.

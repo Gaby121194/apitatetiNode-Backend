@@ -1,0 +1,190 @@
+file:///home/gaby/Desktop/myapp/routes/clients.js {"mtime":1589418726193,"ctime":1588354710940,"size":4316,"etag":"3542doc3f4f7","orphaned":false}
+var express = require('express');
+var router = express.Router();
+var redis = require('redis').createClient()
+
+
+/* GET users listing. */
+
+
+router.get('/clients',function (req, res) {
+    redis.keys("client#*", (err, result) => {
+      if (result) {
+        res.json({
+          status: 200,
+          message: "success",
+          response: result,
+        });
+      } else {
+        res.json({
+          status: 404,
+          message: "Error, file not found",
+          response: {},
+        });
+      }
+    });
+  })
+
+
+router.get('/:clienteId', function (req, res, next) {
+    redis.hgetall(`client#${req.params.clienteId}`, (error, result) => {
+
+
+        if (result) {
+            res.json(
+                {
+                    status: 200,
+                    msg: "cliente",
+                    response: result
+                }
+            )
+        }
+        else {
+            res.json(
+                {
+                    status: 400,
+                    msg: "error",
+                    response: error
+                }
+            )
+        }
+    }
+
+    )
+});
+
+// router.get('/:idClient/contracts', function(req, res, next) {
+//     res.json({status: 200, msg: 'contratos clientes', response: clients.find(element => element.idcliente == req.params.idClient).contratos });
+//   });
+
+
+  router.get('/clients/:idClient/contracts/:idContrato', (function (req, res) {
+    redis.hgetall(`client#${req.params.clientId}contract#${req.params.contractId}`,
+    (err, result) => {
+      if (result) {
+        res.json({
+          status: 200,
+          message: "contrato",
+          response: result,
+        });
+      } else {
+        res.json({
+          status: 404,
+          message: "Error, no hay contrato",
+          response: {},
+        });
+      }
+    });
+  })
+  )
+/* POST users listing. */
+
+router.post('/clients', function(req, res, next) {
+    
+    redis.hmset(`client#${req.body['id']}`, req.body , (error,result)=> {
+        if(result) {
+            res.json(req.body)
+        }
+        else {
+            res.json( {error: 'cant create'} )
+        }
+        
+    } )
+    
+  });
+
+  router.post('/clients/:clientId/contracts/:contractId',function (req, res) {
+    body = JSON.stringify(req.body);
+    redis.hmset(
+      `client#${req.params.clientId}contract#${req.body["contractId"]}`,
+      req.body,
+      (err, result) => {
+        if (result) {
+          res.json({
+            status: 200,
+            message: "contrato creado",
+            response: req.body,
+          });
+        } else {
+          res.json({
+            status: 400,
+            message: "Error cant create ",
+            response: {},
+          });
+        }
+      }
+    );
+  })
+
+/* PUT users listing. */
+
+router.put('/:clienteId', function(req, res, next) {
+    redis.hmset( `client#${req.params.clientId}`, req.body, (error, result) =>{
+        if(result){
+            res.json(req.body)
+        }
+        else {
+            res.json( {error: 'cant create'} )
+        }
+    })
+  });
+
+  router.put('/:clienteId/contracts/:contratoId', function(req, res, next) {
+    redis.hmset( `contract#${req.params.clientId}#client#${req.params.contractId}`, req.body, (error, result) =>{
+        if(result){
+            res.json(req.body)
+        }
+        else {
+            res.json( {error: 'cant create'} )
+        }
+    })
+  })
+;
+
+/* DELETE users listing. */
+
+router.delete('/clients/:clientId',function (req, res) {
+    body = JSON.stringify(req.body);
+    redis.del(`client#${req.params.clientId}`,
+    (err, result) => {
+      if (result) {
+        res.json({
+          status: 200,
+          message: "cliente borrado",
+          response: {},
+        });
+      } else {
+        res.json({
+          status: 402,
+          message: "no se pudo borrar",
+          response: {},
+        });
+      }
+    });
+  });
+
+  router.delete('/:clienteId/contracts/:contratoId', function(req, res, next) {
+    redis.del(`client#${req.params.clientId}contract#${req.params.contratoId}`,
+    (err, result) => {
+      if (result) {
+        res.json({
+          status: 200,
+          message: "contrato borrado",
+          response: {},
+        });
+      } else {
+        res.json({
+          status: 402,
+          message: "no se pudo borrar",
+          response: {},
+        });
+      }
+    });
+  })
+
+
+
+
+
+
+module.exports = router;

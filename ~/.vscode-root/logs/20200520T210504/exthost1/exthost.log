@@ -1,0 +1,631 @@
+[2020-05-20 21:05:12.738] [exthost] [info] extension host started
+[2020-05-20 21:05:13.103] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-20 21:05:13.113] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-05-20 21:05:13.153] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-20 21:05:13.162] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-05-20 21:05:13.294] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-20 21:05:13.294] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/git/dist/main
+[2020-05-20 21:05:13.447] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-20 21:05:13.448] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-05-20 21:05:13.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-20 21:05:13.494] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-05-20 21:05:13.511] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-20 21:05:13.511] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-05-20 21:05:13.525] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-20 21:05:13.525] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-05-20 21:05:13.561] [exthost] [info] eager extensions activated
+[2020-05-20 21:06:05.887] [exthost] [info] extension host started
+[2020-05-20 21:06:06.210] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-20 21:06:06.215] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-05-20 21:06:06.229] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-20 21:06:06.230] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-05-20 21:06:06.289] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-20 21:06:06.296] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/git/dist/main
+[2020-05-20 21:06:06.371] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-20 21:06:06.371] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-05-20 21:06:06.384] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-20 21:06:06.385] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-05-20 21:06:06.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-20 21:06:06.393] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-05-20 21:06:06.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-20 21:06:06.396] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-05-20 21:06:06.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-05-20 21:06:06.432] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/npm/dist/main
+[2020-05-20 21:06:06.635] [exthost] [info] eager extensions activated
+[2020-05-20 21:06:12.592] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-05-20 21:06:12.592] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-05-20 21:06:14.577] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-05-20 21:06:14.578] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-05-20 21:06:14.593] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-05-20 21:06:14.593] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-05-20 21:06:14.616] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-05-20 21:06:14.617] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-05-20 21:17:15.832] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:17:15.846] [exthost] [error] Error: DisposableStore is missing...
+	at U._convertCompletionItem (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:677:574)
+	at U.resolveCompletionItem (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:677:354)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-05-20 21:17:16.004] [exthost] [info] [vscode.typescript-language-features] UNSAVE result from 'resolveCompletionItem', extension SHOULD NOT change any of: additionalTextEdits, or command
+[2020-05-20 21:17:20.215] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:17:20.217] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-20 21:17:29.754] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:17:29.755] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-20 21:17:29.910] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:17:29.910] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-20 21:17:41.481] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:17:41.482] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-20 21:17:45.061] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:17:45.062] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-20 21:17:45.267] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:17:45.268] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-20 21:17:45.420] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:17:45.420] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-20 21:17:46.793] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:17:46.793] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-20 21:17:46.987] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:17:46.987] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-20 21:17:47.962] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:17:47.962] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-20 21:17:48.101] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:17:48.102] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-05-20 21:18:55.383] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:18:55.383] [exthost] [error] Error: DisposableStore is missing...
+	at U._convertCompletionItem (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:677:574)
+	at U.resolveCompletionItem (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:677:354)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-05-20 21:18:55.384] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:18:55.384] [exthost] [error] Error: DisposableStore is missing...
+	at U._convertCompletionItem (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:677:574)
+	at U.resolveCompletionItem (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:677:354)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-05-20 21:23:10.827] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 21:23:10.832] [exthost] [error] Error: DisposableStore is missing...
+	at U._convertCompletionItem (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:677:574)
+	at U.resolveCompletionItem (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:677:354)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-05-20 22:11:04.454] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-20 22:11:04.456] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
